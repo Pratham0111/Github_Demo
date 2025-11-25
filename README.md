@@ -1,2 +1,3 @@
 # Github_Demo
-THis is demo repo
+This is demo repo & we are good clea
+Happy to learn Github
